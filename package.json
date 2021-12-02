@@ -1,0 +1,16 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "yarn-install": "yarn install",
+    "watch-indexjs": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "4",
+    "socket.io": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
